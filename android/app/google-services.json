@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785350410225",
+    "project_id": "yournotes-4b9b8",
+    "storage_bucket": "yournotes-4b9b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785350410225:android:ba7637739a56231ed44e50",
+        "android_client_info": {
+          "package_name": "com.rachitadongre.yournotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785350410225-qunferds11qj1bk4gqug2moh5911b4pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTYSyG1Bug6HnHZFQIH9HpVVhT21Ocuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785350410225-qunferds11qj1bk4gqug2moh5911b4pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785350410225-65p1hef0d6i8p6pn90vu8oohu3r29g0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rachitadongre.yournotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
