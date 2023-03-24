@@ -1,6 +1,4 @@
-import 'dart:html';
 import 'package:bloc/bloc.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:yournotes/services/auth/auth_provider.dart';
 import 'package:yournotes/services/auth/bloc/auth_event.dart';
 import 'package:yournotes/services/auth/bloc/auth_state.dart';
